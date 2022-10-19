@@ -817,6 +817,6 @@ h3 {
 
 /* a hack solution */
 section {
-  overflow: hidden;
+   overflow: hidden !important;
 }
 
