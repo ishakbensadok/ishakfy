@@ -569,10 +569,7 @@ h3 {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  position: fixed;
-  top: 0px;
-  width: 100%;
-  z-index: 999;
+
 }
 .nav-bar__logo {
   width: 150px;
