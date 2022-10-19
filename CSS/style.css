@@ -814,3 +814,9 @@ h3 {
     transform: rotate(360deg);
   }
 }
+
+/* a hack solution */
+section {
+  overflow: hidden;
+}
+
